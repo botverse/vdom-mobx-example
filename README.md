@@ -1,4 +1,4 @@
-## Test for usage of virtual-dom with MobX
+## Example of usage of virtual-dom with MobX
 
 To run the project follow this steps
 
