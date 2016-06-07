@@ -1,5 +1,5 @@
 {
-  "name": "test-vdom-mobx",
+  "name": "vdom-mobx-example",
   "version": "0.0.0",
   "scripts": {
     "dev": "webpack-dev-server --content-base build/"
